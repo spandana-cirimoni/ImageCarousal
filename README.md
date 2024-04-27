@@ -1,1 +1,1 @@
-#Simple Image Carousal to deploy in AWS EC2.
+# Simple Image Carousal to deploy in AWS EC2.
